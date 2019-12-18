@@ -1,0 +1,11 @@
+{
+    "name": "increased-landfill-stack",
+    "version": "0.0.1",
+    "title": "Increase Landfill-stack",
+    "author": "railey1990",
+    "description": "By default you have a stacksize of 100 per landfill. You now have stack size of 500 per landfill.",
+    "factorio_version": "0.17",
+    "dependencies": [
+        "base >= 0.17.0"
+    ]
+}
