@@ -1,7 +1,7 @@
 data:extend(
-	{
-		{
-			type = "item",
+  {
+    {
+      type = "item",
       name = "landfill",
       icon = "__base__/graphics/icons/landfill.png",
       icon_size = 32,
@@ -14,6 +14,6 @@ data:extend(
         condition_size = 1,
         condition = { "ground-tile" }
       }
-		}
+    }
   }
 )
