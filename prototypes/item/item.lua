@@ -4,7 +4,7 @@ data:extend(
       type = "item",
       name = "landfill",
       icon = "__base__/graphics/icons/landfill.png",
-      icon_size = 32,
+      icon_size = 64, icon_mipmaps = 4,
       subgroup = "terrain",
       order = "c[landfill]-a[dirt]",
       stack_size = 500,
