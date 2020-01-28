@@ -6,7 +6,7 @@
     "description": "By default you have a stacksize of 100 per landfill. You now have stack size of 500 per landfill.",
     "contact": "https://github.com/mteiting/increased-landfill-stack",
     "homepage": "https://github.com/mteiting/increased-landfill-stack",
-    "factorio_version": "0.17",
+    "factorio_version": "0.18",
     "dependencies": [
         "base >= 0.17.0"
     ]
