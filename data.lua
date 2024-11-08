@@ -1,2 +1,1 @@
-require("prototypes.item.item")
-
+data.raw.item["landfill"].stack_size = 500
